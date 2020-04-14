@@ -24,7 +24,7 @@ ol{
 body{
   margin:0;
 }
-@media(max-width:800px){
+@media(max-width:1500px){
   #grid{
     display:block;
   }
