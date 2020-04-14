@@ -1,5 +1,4 @@
-@media(min-width: 721px){
-  #grid{
+#grid{
   display: grid;
   grid-template-columns: 150px 1fr;
 }
@@ -25,8 +24,7 @@ ol{
 body{
   margin:0;
 }
-}
-@media screen and (max-width:720px){
+@media screen and (max-devic-width:1500px){
   #grid{
     display:block;
   }
